@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">JIAAD Foundation</title>
+  <desc id="desc">Creativity, skills and opportunity. A community-focused youth platform.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14233e"/><stop offset="1" stop-color="#203852"/></linearGradient></defs>
+  <rect width="960" height="300" rx="14" fill="url(#bg)"/>
+  <circle cx="899" cy="270" r="202" fill="none" stroke="#f7c942" stroke-width="1" opacity=".18"/>
+  <circle cx="899" cy="270" r="150" fill="none" stroke="#f7c942" stroke-width="1" opacity=".18"/>
+  <rect x="44" y="41" width="5" height="27" rx="2" fill="#f7c942"/>
+  <text x="64" y="61" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="3" fill="#f7c942">COMMUNITY / EDUCATION</text>
+  <text x="42" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" letter-spacing="-1" fill="#ffffff">JIAAD Foundation</text>
+  <text x="44" y="182" font-family="Segoe UI,Arial,sans-serif" font-size="24" fill="#d5dfef">Creativity, skills and opportunity.</text>
+  <text x="44" y="253" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#f7c942">jiaadfoundation.co.ke</text>
+  <g transform="translate(796 89)" fill="none" stroke="#f7c942" stroke-width="3" stroke-linejoin="round" opacity=".85"><path d="M0 28 56 0l56 28-56 28zM21 40v33c23 17 47 17 70 0V40M111 29v48"/></g>
+</svg>
